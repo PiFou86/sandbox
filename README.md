@@ -95,5 +95,5 @@ Qu’arrive-t-il si le programme lit le nombre ```10``` au clavier? Pourquoi?
 
 Écrivez un algorithme qui lit 2 réels dans les variables ```reel1``` et ```reel2```. Cet algorithme doit être capable d’échanger les valeurs contenues dans ```reel1``` et ```reel2```. À la fin de l’algorithme, affichez le résultat de ces deux variables.
 
-<iframe src="https://try.dot.net/?fromGist=df44833326fcc575e8169fccb9d41fc7">
+<iframe src="https://try.dot.net/?fromGist=df44833326fcc575e8169fccb9d41fc7&hostOrigin=https://pifou86.github.io/sandbox/">
 </iframe>
