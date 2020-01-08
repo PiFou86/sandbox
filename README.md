@@ -98,7 +98,7 @@ Qu’arrive-t-il si le programme lit le nombre ```10``` au clavier? Pourquoi?
 <script>
   var url = encodeURIComponent(window.location.origin);
   url = "https://try.dot.net/?fromGist=df44833326fcc575e8169fccb9d41fc7&hostOrigin=" + url;
-  document.getElementById("myIFrame").contentWindow.document.location.href=url;
+  document.getElementById("myIFrame").src=url;
 </script>
 
 <iframe id="myIFrame" src="about:blank" width="1000" height="450" >
