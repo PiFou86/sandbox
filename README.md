@@ -95,16 +95,5 @@ Qu’arrive-t-il si le programme lit le nombre ```10``` au clavier? Pourquoi?
 
 Écrivez un algorithme qui lit 2 réels dans les variables ```reel1``` et ```reel2```. Cet algorithme doit être capable d’échanger les valeurs contenues dans ```reel1``` et ```reel2```. À la fin de l’algorithme, affichez le résultat de ces deux variables.
 
-<details>
-  <summary>Spoiler warning</summary>
-  
-  Spoiler text. Note that it's important to have a space after the summary tag. You should be able to write any markdown you want inside the `<details>` tag... just make sure you close `<details>` afterward.
-  
-  ```javascript
-  console.log("I'm a code block!");
-  ```
-  
-</details>
-
 <iframe src="https://try.dot.net/?fromGist=df44833326fcc575e8169fccb9d41fc7">
 </iframe>
