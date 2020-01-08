@@ -95,11 +95,13 @@ Qu’arrive-t-il si le programme lit le nombre ```10``` au clavier? Pourquoi?
 
 Écrivez un algorithme qui lit 2 réels dans les variables ```reel1``` et ```reel2```. Cet algorithme doit être capable d’échanger les valeurs contenues dans ```reel1``` et ```reel2```. À la fin de l’algorithme, affichez le résultat de ces deux variables.
 
+<iframe id="myIFrame" src="about:blank" width="1000" height="450" >
+</iframe>
+
 <script>
   var url = encodeURIComponent(window.location.origin);
   url = "https://try.dot.net/?fromGist=df44833326fcc575e8169fccb9d41fc7&hostOrigin=" + url;
   document.getElementById("myIFrame").src=url;
 </script>
 
-<iframe id="myIFrame" src="about:blank" width="1000" height="450" >
-</iframe>
+
