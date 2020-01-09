@@ -100,7 +100,7 @@ Qu’arrive-t-il si le programme lit le nombre ```10``` au clavier? Pourquoi?
 
 <script>
   var url = encodeURIComponent(window.location.origin);
-  url = "https://try.dot.net/v2/ide/?hostOrigin=" + url + "&fromGist=df44833326fcc575e8169fccb9d41fc7&useBlazor=True&workspaceType=blazor-console";
+  url = "https://try.dot.net/v2/editor?hostOrigin=" + url + "&fromGist=df44833326fcc575e8169fccb9d41fc7&useBlazor=True&workspaceType=blazor-console";
   document.getElementById("myIFrame").src=url;
 </script>
 
