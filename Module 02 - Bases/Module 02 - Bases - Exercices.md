@@ -15,7 +15,7 @@ Avec les données initiales :
 
 Évaluez les expressions suivantes :
 
-1. $x \land y$
+1. ![$x \land y$](https://render.githubusercontent.com/render/math?math=%24x%20%5Cland%20y%24)
 2. $y \lor x$
 3. $x  \lor z \lor y$
 4. $y \lor (x \land z)$
